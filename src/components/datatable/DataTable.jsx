@@ -23,6 +23,7 @@ export default function DataTable() {
   ];
   return (
     <div className="datatable">
+      Hi this is from new Branch
       <div className="datatableTitle">
         Add New User
         <Link to="new" style={{ textDecoration: "none" }} className="link">
