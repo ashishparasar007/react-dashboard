@@ -23,6 +23,7 @@ const Home = () => {
           <Chart title="Last 6 months Revenue" aspect={2 / 1} />
         </div>
         <div className="listContainer">
+          Hi this is new Branch
           <div className="listTitle">Latest Transactions</div>
           <TransactionsTable />
         </div>
